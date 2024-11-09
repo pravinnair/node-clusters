@@ -1,0 +1,23 @@
+{
+  "name": "clusters",
+  "version": "1.0.0",
+  "description": "node clusters usage usecase",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-clusters"
+  },
+  "author": "pravin",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "loadtest": "^8.0.9",
+    "pm2": "^5.4.2"
+  }
+}
